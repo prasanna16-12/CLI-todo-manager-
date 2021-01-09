@@ -1,5 +1,9 @@
 ## Usage
 
+References 
+[![TODO](https://i.ytimg.com/an_webp/C1PDGKwptJc/mqdefault_6s.webp?du=3000&sqp=CIfU5_8F&rs=AOn4CLDdNSCeQLtSBGCGKmvLUFmC5RUTEQ)](https://youtu.be/C1PDGKwptJc)
+
+
 ### 1. Help
 
 Executing the command without any arguments, or with a single argument `help` prints the CLI usage.
@@ -7,7 +11,7 @@ Executing the command without any arguments, or with a single argument `help` pr
 ```
 $ ./todo help
 Usage :-
-$ ./todo add "todo item"  # Add a new todo
+$ ./todo add "todo item"  # Add a new todohttps://i.ytimg.com/an_webp/C1PDGKwptJc/mqdefault_6s.webp?du=3000&sqp=CIfU5_8F&rs=AOn4CLDdNSCeQLtSBGCGKmvLUFmC5RUTEQ
 $ ./todo ls               # Show remaining todos
 $ ./todo del NUMBER       # Delete a todo
 $ ./todo done NUMBER      # Complete a todo
